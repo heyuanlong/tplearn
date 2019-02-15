@@ -1,2 +1,0 @@
-# tplearn
-thinkphp learn
